@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["server_decoration","KDE's server decoration protocol"]]});
